@@ -1,0 +1,9 @@
+{
+  "name": "Logistic by Damzycoded",
+  "short_name": "DamzyLogistics",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c62828",
+  "icons":
+}
